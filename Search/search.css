@@ -1,0 +1,26 @@
+.petgoTitle{
+    font-family: "Bradley Hand";
+    font-size: 40px;
+    color: white;
+}
+
+#login{
+    float: right;
+}
+
+.searchBar{
+     width: 500px; 
+}
+
+.card-columns {
+    column-count: 3;
+}
+.card{
+    display: inline-block;
+    width: 400px;
+    
+}
+
+.card-img-top {
+    width: 100%;
+}
